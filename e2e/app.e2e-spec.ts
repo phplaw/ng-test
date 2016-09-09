@@ -1,6 +1,6 @@
 import { GroceriesPage } from './app.po';
 
-describe('groceries App', function() {
+describe('ng-test App', function() {
   let page: GroceriesPage;
 
   beforeEach(() => {
